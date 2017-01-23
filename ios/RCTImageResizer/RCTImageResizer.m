@@ -6,7 +6,7 @@
 //
 
 #include "RCTImageResizer.h"
-#import "RCTImageLoader.h"
+#import <React/RCTImageLoader.h>
 
 @implementation ImageResizer
 
